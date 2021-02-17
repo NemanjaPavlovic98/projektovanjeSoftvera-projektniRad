@@ -1,0 +1,38 @@
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Server.exe.config
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Server.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Server.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Kontroler.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\Kontroler.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\bin\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.FrmServer.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.Properties.Resources.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Server\obj\Debug\Server.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Server.exe.config
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Server.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Server.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Kontroler.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\Kontroler.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\bin\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.FrmServer.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Server\obj\Debug\Server.pdb

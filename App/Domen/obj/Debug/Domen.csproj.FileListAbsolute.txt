@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Domen\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Domen\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Domen\obj\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Domen\obj\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Domen\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Domen\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Domen\obj\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Domen\obj\Debug\Domen.pdb

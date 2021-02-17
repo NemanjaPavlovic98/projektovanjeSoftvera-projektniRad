@@ -1,0 +1,54 @@
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\bin\Debug\Klijent.exe.config
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\bin\Debug\Klijent.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\bin\Debug\Klijent.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.Login.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmUnosRecenzije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmBrisanjeIzmenaKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmBrisanjeIzmenaTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmGlavnaForma.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmUnosKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmUnosTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.FrmGlavna.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.UCUnosKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.UCUnosRecenzije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.UCUnosTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.UCIzmenaBrisanjeKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.UCIzmenaBrisanjeTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.DashboardScreen.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Klijent\obj\Debug\Klijent.UserControls.PrikazKurseva.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\bin\Debug\Klijent.exe.config
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\bin\Debug\Klijent.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\bin\Debug\Klijent.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmBrisanjeIzmenaKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmBrisanjeIzmenaTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmGlavna.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmGlavnaForma.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmUnosKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmUnosRecenzije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.FrmUnosTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.Login.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.DashboardScreen.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.PrikazKurseva.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.UCIzmenaBrisanjeKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.UCIzmenaBrisanjeTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.UCUnosKursa.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.UCUnosRecenzije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.UserControls.UCUnosTehnologije.resources
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.exe
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Klijent\obj\Debug\Klijent.pdb

@@ -1,0 +1,22 @@
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

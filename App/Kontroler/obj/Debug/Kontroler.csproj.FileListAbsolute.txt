@@ -1,0 +1,26 @@
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\Kontroler.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\Kontroler.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\bin\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\obj\Debug\Kontroler.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\Kontroler\obj\Debug\Kontroler.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\Kontroler.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\Kontroler.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\SistemskeOperacije.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\bin\Debug\SistemskeOperacije.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\obj\Debug\Kontroler.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\Kontroler\obj\Debug\Kontroler.pdb

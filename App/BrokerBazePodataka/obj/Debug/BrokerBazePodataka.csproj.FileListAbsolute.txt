@@ -1,0 +1,18 @@
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+\\Mac\Home\Desktop\Nemanja_Pavlovic_2017_0179 - Copy\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb
